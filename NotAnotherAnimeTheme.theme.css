@@ -8,7 +8,9 @@
 * @updateUrl https://raw.githubusercontent.com/puckzxz/NotAnotherAnimeTheme/master/NotAnotherAnimeTheme.theme.css
 */
 
-@import url(https://puckzxz.github.io/NotAnotherAnimeTheme/build/v3/naat.v3.css);
+@import url("https://puckzxz.github.io/NotAnotherAnimeTheme/build/v3/naat.v3.css");
+@import url("https://accrazed.github.io/YoRHA-UI-BetterDiscord/NieR-Cursor.css"); /* Cursor */
+@import url("https://accrazed.github.io/YoRHA-UI-BetterDiscord/font/stylesheet.css"); /* Font */
 
 /*
   To make editing this theme easier I recommend using Notepad++
